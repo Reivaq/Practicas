@@ -65,6 +65,9 @@ Donde posterior mente se nos mostra la diguiente ventana la cual esmuy parecida 
     ![](https://hackmd.io/_uploads/rJRvvlTch.png)
 
 Una vez en esta ventana ya podemos empezar a utilizar los comandos 
+
+![Captura de pantalla (2968)](https://github.com/Reivaq/Practicas/assets/140466947/cd5dd532-c65d-4421-bd87-e80cc9806bbf)
+
     ![](https://hackmd.io/_uploads/B10pvgaq2.png)
 
  Iniciamos utilizando git init para poder empezar a trabbajar en un nuevo proyecto 
