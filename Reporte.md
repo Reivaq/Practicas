@@ -56,19 +56,22 @@ Git cuenta con 3 estados los cuales son los siguientes:
     
     
 Durante este primer video se reralizara la creacion de diferentes programas como son java scrip html y css los cuales no contienen nada complejo de modo que estos solo se utilizaron para lograr comprender los conceptos basicos de git y aprender a utilizar los comandos, para ellos se utilizo el visualizador de codigo Visual Studio 
-    ![](https://hackmd.io/_uploads/r1IQHe6c2.png)
+
+    ![image](https://github.com/Reivaq/Practicas/assets/140466947/81763f8d-25b8-4655-a429-92bbc1998ff2)
 
 Todos estos archivos se guardaron en una sola carpeta de modo que ala hora de trabajar con git fuera mas facil.Abrimos el centro de comandos de git de la siguiente manera
-     ![](https://hackmd.io/_uploads/S1ayDgT5n.png)
+  ![image](https://github.com/Reivaq/Practicas/assets/140466947/cd250f54-7766-4357-bdd6-2502ab8c38a5)
     
 Donde posterior mente se nos mostra la diguiente ventana la cual esmuy parecida al cmd 
-    ![](https://hackmd.io/_uploads/rJRvvlTch.png)
+ ![image](https://github.com/Reivaq/Practicas/assets/140466947/0eb1e55b-bd62-4322-afa7-9f34409e199b)
 
 Una vez en esta ventana ya podemos empezar a utilizar los comandos 
 
-![Captura de pantalla (2968)](https://github.com/Reivaq/Practicas/assets/140466947/cd5dd532-c65d-4421-bd87-e80cc9806bbf)
 
-    ![](https://hackmd.io/_uploads/B10pvgaq2.png)
+![image](https://github.com/Reivaq/Practicas/assets/140466947/41615401-371e-4242-bad3-99cf073fb9c8)
+
+
+ 
 
  Iniciamos utilizando git init para poder empezar a trabbajar en un nuevo proyecto 
     
@@ -79,52 +82,63 @@ con el comando git status vemos que archivos son los que estan agregados y cuale
 
 
 Una vez agregado los archivos verificamos el status para comenzar a trabajar con ellos  
-    ![](https://hackmd.io/_uploads/HyGXFxT53.png)
+ 
+![image](https://github.com/Reivaq/Practicas/assets/140466947/49e547ba-44fc-4e2c-acb6-836f4999cb8d)
+
+
+
 
   Para poder realizar cambios en los archivos tenemos que registar nuestro correo y nombre para asi poder llevar un control de quienes han modificado los archivos 
     
-   ![](https://hackmd.io/_uploads/HkkRKxp92.png)
+ ![image](https://github.com/Reivaq/Practicas/assets/140466947/36eaead5-661b-4f8a-93fb-807354f2e7dc)
+
+
     
     
 Con el comando commit podemos darle los ultimos toques a nuestro archivo 
     
-![](https://hackmd.io/_uploads/HJFMsxaq3.png)
+![image](https://github.com/Reivaq/Practicas/assets/140466947/0f37ce89-2e5e-4831-9c43-7ed94982e5db)
 
-Con ayuda del comando git log podemos ver todas las modificaciones que se han realizado anuestro programa 
+
+
+Con ayuda del comando git log podemos ver todas las modificaciones que se han realizado a nuestro programa 
     
     
-  ![](https://hackmd.io/_uploads/rygaiga93.png)
+![image](https://github.com/Reivaq/Practicas/assets/140466947/1c88af03-2e27-4def-8207-ef6e16f6ffd1)
+
 
 
 Con git Branch podemos crear una copia de nuestro program que sea total mente independiente de este y realizar los modificaciones que querramos teniendo dods modos el maste y el logi 
     
     
-   ![](https://hackmd.io/_uploads/S1242eT53.png)
+ ![image](https://github.com/Reivaq/Practicas/assets/140466947/5379b2fa-a47b-456f-b15c-77969dd4bc71)
+
 
     
     
 Despues de todo esto ya podemos subir nuestro codigo a github, para subir nuestro codigo entramos annuestra pagina de github en donde en la parte de repositorio podemos crear uno nuevo 
     
-    
-   ![](https://hackmd.io/_uploads/rk9c3xaq3.png)
+    ![image](https://github.com/Reivaq/Practicas/assets/140466947/03e89c37-d35a-47a7-8f47-093b0ef5d214)
     
     De mdo que configuremos todo lo siguiente 
 
 
-  ![](https://hackmd.io/_uploads/rkMcaxTch.png)
+![image](https://github.com/Reivaq/Practicas/assets/140466947/bda9cbe1-7200-4848-8f08-67b799468fa3)
   
 
   Una vez configurado todo esto lo siguiente es cargar nuestro codigo desde la linea de comandos lo cual es relativamente facil debido a que github ya nos da los cudigos los cuales podemos utilizar 
     
  
-   ![](https://hackmd.io/_uploads/rkt30g652.png)
+  ![image](https://github.com/Reivaq/Practicas/assets/140466947/2b5da795-ed50-4fde-9c0d-7404969423c4)
 
     
-![](https://hackmd.io/_uploads/S19Ieb69n.png)
+![image](https://github.com/Reivaq/Practicas/assets/140466947/e7dc33da-c7e1-4330-9e15-084124a40bca)
+
 
  Que dando de la siguiente manera 
     
-![](https://hackmd.io/_uploads/Sy99gW653.png)
+![image](https://github.com/Reivaq/Practicas/assets/140466947/ff8213a0-4774-4b79-af0d-f3840fc143b0)
+
 
     
 ## Conclucion 
