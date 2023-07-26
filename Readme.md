@@ -1,4 +1,4 @@
-![image](https://github.com/Reivaq/Practicas/assets/140466947/10b42943-ece6-4bd1-aec8-30642a7d7b0f)![image](https://github.com/Reivaq/Practicas/assets/140466947/afd07bf7-7859-48ef-a3b4-1aa364ea06c4)# Dia 1
+# Dia 1
 
 ## Introduccion 
 
@@ -119,8 +119,7 @@ Con git Branch podemos crear una copia de nuestro program que sea total mente in
 Despues de todo esto ya podemos subir nuestro codigo a github, para subir nuestro codigo entramos annuestra pagina de github en donde en la parte de repositorio podemos crear uno nuevo 
     
     ![image](https://github.com/Reivaq/Practicas/assets/140466947/03e89c37-d35a-47a7-8f47-093b0ef5d214)
-    
-    De mdo que configuremos todo lo siguiente 
+   
 
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/bda9cbe1-7200-4848-8f08-67b799468fa3)
@@ -149,7 +148,7 @@ Despues de todo esto ya podemos subir nuestro codigo a github, para subir nuestr
 
 #Dia 2
 
-### Tarea 
+## Tarea 
 Retomando lo aprendido el dia de ayer lo que deberemos hcaer hoy aparte de avanzar con los videos se debera accerder al archivo Curso GitHub.HTML desde la terminal de cmd y bash de linux en Windows 
 
 Para ello abrimos la terminal de Git Bash 
