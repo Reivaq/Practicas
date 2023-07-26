@@ -144,3 +144,53 @@ Despues de todo esto ya podemos subir nuestro codigo a github, para subir nuestr
 ## Conclucion 
     
  En este primer curso se logro comprender para que sirve Git y GitHub ademas  de aprender los comandos basicos y como subir un archivo a github    
+
+
+
+#Dia 2
+
+### Tarea 
+Retomando lo aprendido el dia de ayer lo que deberemos hcaer hoy aparte de avanzar con los videos se debera accerder al archivo Curso GitHub.HTML desde la terminal de cmd y bash de linux en Windows 
+
+Para ello abrimos la terminal de Git Bash 
+
+![Captura de pantalla (2974)](https://github.com/Reivaq/Practicas/assets/140466947/78fb8f57-b008-4be3-8241-b338c85a17ab)
+
+
+Con ayuda del comando ls podemos ver en donde estamos ubicados ademas de mostrarnos todas las carpetas disponibles que tenemos, hay ubicaremos la carpeta donde se ubique nuestro archo.
+
+Una vez ubicada nuestra carpeta con el comando Cd <NAME FILE> nos moveremos ala carpeta deseada 
+    
+    Imagen 2
+    
+    
+Ya dentro de nuestra carpeta buscamos nuestro archivo con el comando ls 
+    
+    
+    Imagen 3 
+    
+    
+Con el CMD se siguen los mismos pasos y comandos primero usando el comado ls para saber donde estamos ubicados 
+    
+    Imagen 4
+    
+despues el comando CD para desplazarnos entre carpetas 
+    
+    Imagen 5 
+    
+    
+    Asi hasta encontrar nuestro Archivo 
+    
+    
+# Curso HTML para principiantes
+    
+En este pequeño curso se abordara los comandos basicos de HTML, etiquetas y el como crear una pagina de manera sencilla 
+    
+## Etiquetas basicas utilizadas 
+    
+
+
+
+
+
+
