@@ -117,4 +117,5 @@ Por ultimo para terminar el completamente el cuerpo de nuestra pagina se utiliza
 
 
 Asi de este modo terminado nuestra prmera pagina en HTML 
+
 Par que la pagina quede de mnera mas estetica se le debe aplicar codigo css el cual es el siguiente curso a realizar 
