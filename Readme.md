@@ -224,9 +224,9 @@ Una de las partes mas largas dentro del body es la etiqueta seccion en donde se 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/42334c92-b25d-456e-88c0-e69e33bea6dd)
 
  
-Debido a a la estructura de nuestra pagina contamos con varios titulos principales <h1> para que no exista ningun conflicto o confucion al mometo de que alguien mas intente leer nuestro codido lo que se hace es agruparlo con ayuda de la etiqueta <hgroup> l etiqueta <h2> realiza un subtitulo y entre el numero que acompaña la h sea mas cercano a 6 este sera mas pequeño 
+Debido a a la estructura de nuestra pagina contamos con varios titulos principales h1 para que no exista ningun conflicto o confucion al mometo de que alguien mas intente leer nuestro codido lo que se hace es agruparlo con ayuda de la etiqueta hgroup la etiqueta h2 realiza un subtitulo y entre el numero que acompaña la h sea mas cercano a 6 este sera mas pequeño 
 
-Para agregar los parrafos se utiliza el comando <p> el cual nos permite agregar texto, la etiqueta <time> nos permite agregar una fecha de creoacion de la pagina 
+Para agregar los parrafos se utiliza el comando p el cual nos permite agregar texto, la etiqueta <time> nos permite agregar una fecha de creoacion de la pagina 
 
  
  ![image](https://github.com/Reivaq/Practicas/assets/140466947/1deb9808-8e6a-47fe-879f-95f1be3d248a)
@@ -238,7 +238,7 @@ Para agregar los parrafos se utiliza el comando <p> el cual nos permite agregar 
  ![image](https://github.com/Reivaq/Practicas/assets/140466947/f36bb3f7-dbeb-4bbd-a8ee-1be4c702323f)
  
 
-nuestro articulo termina agregando un link el cual nos puede redirecionar hacia otra pagina qu desemos para ello utilizamos la etiqueta <a herf> la cual nos permite introducir un link dentro de un texto 
+nuestro articulo termina agregando un link el cual nos puede redirecionar hacia otra pagina qu desemos para ello utilizamos la etiqueta a herf la cual nos permite introducir un link dentro de un texto 
 
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/3ba5a481-30fb-42a9-b371-97f3d743a88d)
@@ -250,7 +250,7 @@ Debido a que en nuesra imagen base se encuentran dos parrafos lo unico que hacem
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/04d314f6-ec62-46f7-bbf8-08489755cbb5)
 
 
-La parte 4 y 5 son unas de las mas senciallas a mi parecer debido a que no presenta mucha dificultad para esta parte nos ayudaremos de etiqueta <aside> la cual > representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento.
+La parte 4 y 5 son unas de las mas senciallas a mi parecer debido a que no presenta mucha dificultad para esta parte nos ayudaremos de etiqueta aside la cual  representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento.
 
 en esta parte podemos poner mensaje o citas con ayuda de <blockquote>, termiando la parte 4
 
@@ -258,7 +258,7 @@ en esta parte podemos poner mensaje o citas con ayuda de <blockquote>, termiando
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/d863aea2-8371-45ec-8ddb-71082ff04743)
 
 
-Por ultimo para terminar el ccpletamente el cuerpo de nuestra pagina se utilizara el pie de pagina en la cual pueden ir diferentes anotaciones, esto lo aremos con <footer> 
+Por ultimo para terminar el ccpletamente el cuerpo de nuestra pagina se utilizara el pie de pagina en la cual pueden ir diferentes anotaciones, esto lo aremos con footer 
 
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/85e1ea61-e256-41ee-939b-6649fc813d07)
