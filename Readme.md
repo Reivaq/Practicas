@@ -210,7 +210,7 @@ En la siguiente parte se inicializa el cuerpo de nuestro programa
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/097f67d5-f689-43b3-8ddb-73d5cf2a144a)
 
-Dentro del cuerpo de nuestro programa podemos encontrar diversas etiquetas como lo es en el caso de la linea 20 endonde se utiliza la etiqueta <h1> para definir el titulo de nuesta pagina.
+Dentro del cuerpo de nuestro programa podemos encontrar diversas etiquetas como lo es en el caso de la linea 20 endonde se utiliza la etiqueta h1 para definir el titulo de nuesta pagina.
 
 En la linea 23 podemos encontrar la etiqueta nav la cual nos ayuda a  representa una sección de una página cuyo propósito es proporcionar enlaces de navegación, ya sea dentro del documento actual o a otros documento. El cual seria el punto numero 2 
 
