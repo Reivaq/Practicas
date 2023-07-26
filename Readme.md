@@ -252,13 +252,13 @@ Debido a que en nuesra imagen base se encuentran dos parrafos lo unico que hacem
 
 La parte 4 y 5 son unas de las mas senciallas a mi parecer debido a que no presenta mucha dificultad para esta parte nos ayudaremos de etiqueta aside la cual  representa una sección de una página que consiste en contenido que está indirectamente relacionado con el contenido principal del documento.
 
-en esta parte podemos poner mensaje o citas con ayuda de <blockquote>, termiando la parte 4
+en esta parte podemos poner mensaje o citas con ayuda de blockquote, termiando la parte 4
 
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/d863aea2-8371-45ec-8ddb-71082ff04743)
 
 
-Por ultimo para terminar el ccpletamente el cuerpo de nuestra pagina se utilizara el pie de pagina en la cual pueden ir diferentes anotaciones, esto lo aremos con footer 
+Por ultimo para terminar el completamente el cuerpo de nuestra pagina se utilizara el pie de pagina en la cual pueden ir diferentes anotaciones, esto lo aremos con "footer" 
 
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/85e1ea61-e256-41ee-939b-6649fc813d07)
