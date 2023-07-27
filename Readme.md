@@ -143,7 +143,7 @@ Una vez configurado todo esto lo siguiente es cargar nuestro código desde la l�
 
 
 
-#Dia 2
+# Dia 2
 
 ## Tarea 
 Retomando lo aprendido el día de ayer lo que deberemos hacer hoy aparte de avanzar con los videos se deberá acceder al archivo Curso GitHub.HTML desde la terminal de cmd y bash de linux en Windows 
