@@ -525,6 +525,34 @@ Así como se hizo con html y css aquí también tendremos que usar la línea de 
 
 
 
+# Dia 5
+
+Al haber finalizad los cursos básicos lo siguiente es aplicar todo lo aprendido para desarrollar un sitio web personal el cual nuestro perfil de cv, para esto se deben seguir ciertas condiciones:
+
+*La página debe estar hecha en ReactJs
+*El proyecto se debe exponer públicamente en la plataforma que prefiramos 
+*El proyecto se debe compartir en GitHub
+
+
+Para poder cumplir con los objetivos, nos dimos ala tarea de investigar que era ReactJS el cual es una biblioteca de JavaScript de código abierto que se utiliza para construir interfaces de usuario interactivas y reactivas. Es una de las bibliotecas más populares para el desarrollo de aplicaciones web modernas y de una sola página (SPA). ReactJS se enfoca en la creación de componentes reutilizables y permite construir interfaces de usuario complejas mediante el uso de una sintaxis declarativa.
+Para poder crear un archivo esto se realiza desde el cmd ejecutando el siguiente comando “npx créate-react-app”
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/4467d6cb-546e-4ff6-80e5-148a6c619361)
+
+Al momento de ejecutarlo su tuvieron algunos problemas que nos retrasaron con respecto a una extensión llamada noe.js que es la que se encarga de ejecutar este comando
+
+Este error se debía a algo relacionado con el proxi así que realizando una investigación se pudieron encontrar los siguientes comandos para solucionarlo.
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/ff5e620e-903f-4347-bded-a9b183199ca2)
+
+Una vez solucionado pudimos crear nuestros archivos de ReactJs
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/80aaa3bf-f914-4f97-b5a6-e8f8d8dd7b25)
+
+Que dando de la siguiente manera 
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/b5cdb5cd-dae4-4a0c-87b5-943e9df5f21f)
+
 
 
 
