@@ -555,6 +555,25 @@ Que dando de la siguiente manera
 
 
 
+Para realizar el proyecto final se tuvo que investigar un poco mas acerca de todas las ventajas que estos nos ofrecia.
+React.js, también conocido como React, es una popular biblioteca de JavaScript utilizada para construir interfaces de usuario interactivas y escalables. Fue desarrollada por Facebook y lanzada en 2013, y desde entonces ha ganado una amplia adopción en la comunidad de desarrollo web debido a sus ventajas y características únicas.
+
+## Ventajas y Características Clave
+
+1. Componentes Reutilizables
+React se basa en el concepto de componentes, que son bloques de construcción independientes y reutilizables de una aplicación. Estos componentes encapsulan tanto la lógica como la interfaz de usuario, lo que facilita su mantenimiento y extensión a medida que la aplicación crece.
+
+2. Virtual DOM (DOM Virtual)
+Una de las características distintivas de React es el uso de Virtual DOM (DOM Virtual). Cuando los datos cambian en una aplicación React, en lugar de actualizar directamente el DOM del navegador, React actualiza primero el Virtual DOM. Luego, compara el Virtual DOM actualizado con el estado anterior del Virtual DOM y aplica solo las diferencias al DOM real. Esto mejora significativamente el rendimiento y la eficiencia de la actualización de la interfaz de usuario.
+
+3. JSX (JavaScript XML)
+React utiliza JSX, una sintaxis que combina JavaScript y XML, para definir la estructura de los componentes. JSX facilita la escritura de código más legible y declarativo, lo que ayuda a los desarrolladores a visualizar la interfaz de usuario y a trabajar de manera más eficiente.
+
+4. Unidireccionalidad de Datos
+El flujo de datos en React sigue un patrón unidireccional, lo que significa que los datos fluyen desde el componente padre hacia los componentes hijos. Esto mejora la previsibilidad y facilita el seguimiento de los cambios en los datos, lo que simplifica el proceso de depuración y evita efectos secundarios no deseados.
+
+5. React Native
+React Native es una extensión de React que permite el desarrollo de aplicaciones móviles nativas para iOS y Android utilizando JavaScript. Comparte una gran cantidad de código entre plataformas, lo que permite a los desarrolladores crear aplicaciones móviles multiplataforma de manera más rápida y sencilla.
 
     
 
