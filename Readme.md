@@ -554,6 +554,7 @@ Que dando de la siguiente manera
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/b5cdb5cd-dae4-4a0c-87b5-943e9df5f21f)
 
 
+# Dia 6
 
 Para realizar el proyecto final se tuvo que investigar un poco mas acerca de todas las ventajas que estos nos ofrecia.
 React.js, también conocido como React, es una popular biblioteca de JavaScript utilizada para construir interfaces de usuario interactivas y escalables. Fue desarrollada por Facebook y lanzada en 2013, y desde entonces ha ganado una amplia adopción en la comunidad de desarrollo web debido a sus ventajas y características únicas.
