@@ -577,7 +577,90 @@ El flujo de datos en React sigue un patrón unidireccional, lo que significa que
 React Native es una extensión de React que permite el desarrollo de aplicaciones móviles nativas para iOS y Android utilizando JavaScript. Comparte una gran cantidad de código entre plataformas, lo que permite a los desarrolladores crear aplicaciones móviles multiplataforma de manera más rápida y sencilla.
 
     
+# Dia 7
 
+Una vez entendido todo como funciona React lo siguiente es crear un archvio el cual contendra nuestra pagina con el siguiente comando en cmd "npx create-react-app cv"
+
+ ![image](https://github.com/Reivaq/Practicas/assets/140466947/b42a1bc2-a51d-487f-abe0-5c130d2adc25)
+
+ 
+ una vez cereado nos lo abriremos con visual studio code en donde se nos mostra las siguientes carpetas, donde trabajaremos son en las carpetas scr para se mas especificos en la carpeta index.js y index css.
+ 
+ ![image](https://github.com/Reivaq/Practicas/assets/140466947/e2161b32-0d71-4480-aa13-f5d8aeb7c606)
+
+ 
+ En estas carpetas ya viene con un codigo por defecto del programa estos lo borraremos y empezaremos a escribir el nuestro 
+ 
+En la carpeta "App.js" comenzaremos a escribir toda la estructura que llevar nuestro codigo mientras que en la carpeta "App.css" pondremos lo que estodo los detalles esteticos de nuestro programa 
+
+## Estructura del Código "App.js"
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/5ed0cd45-68a0-497b-aa03-96801f2c6a10)
+
+1. **Importaciones:**
+   - Se importa un archivo de imagen llamado "logo.svg".
+   - También se importa un archivo de estilos llamado "App.css" para aplicar estilos a la aplicación.
+
+2. **Función `App()`:**
+   - Esta función representa el componente principal de la aplicación.
+
+3. **Estructura JSX:**
+   - Se define una estructura JSX que define cómo se verá la aplicación en el navegador.
+   - Comienza con un contenedor principal `<div>` con la clase "App".
+   - Dentro del contenedor, se encuentran tres secciones principales:
+
+     1. `<header>`: Esta sección contiene un título principal `<h1>` con el nombre "Antonio Quiroz" y un subtítulo `<h3>` con el texto "Ingeniero Mecatrónico".
+
+     2. `<div className='imagen_fondo'>`: Esta sección contiene una imagen que se muestra en la página. La imagen tiene la ruta "ia.jpeg".
+
+     3. `<nav className='descripcion'>`: Esta sección contiene un párrafo de texto.
+
+     4. `<article className='barra_izq'>`: Esta sección contiene un título `<h3>` que dice "Contacto", pero actualmente no contiene más información.
+
+4. **Estilos:**
+   - Los estilos se aplican a través del archivo "App.css", que contiene reglas de estilos para las clases "imagen_fondo", "descripcion" y "barra_izq".
+   - Los estilos definidos en este archivo afectan el diseño y la apariencia de las secciones correspondientes en la aplicación.
+
+## Estructura del Código "App.css"
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/8da67464-d560-4eb8-a8e5-8f6179ea7238)
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/99c90104-2404-4908-9cb6-bb79cf8e6ebc)
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/85adbd0d-8731-411d-accd-33618659057b)
+
+### Explicación del Código CSS
+
+Este código CSS proporciona estilos y diseño para la aplicación personal de Antonio Quiroz. A continuación, se explica cada parte del código:
+
+### Estilos Generales
+
+- `.App`: Establece las propiedades generales del contenedor principal de la aplicación. Se define un ancho de 1300px y un alto de 1000px. También se le aplica un borde de 1px de grosor en color negro, y se ajustan los márgenes y el relleno a 0 para eliminar espacios innecesarios.
+
+- `header`: Aplica estilos al encabezado de la página. Se establece un fondo de color "#fef9e7" (amarillo claro), se centra el texto y se cambia el tamaño del texto a 30px. Además, se aplica un borde de 1px en color "#FFE176" (amarillo más oscuro) para resaltar el encabezado. Se ajusta el margen izquierdo a 250px para dar espacio al contenido y mejorar la apariencia.
+
+### Estilos de la Sección de Descripción
+
+- `.descripcion`: Establece estilos para la sección de descripción de header. Se alinea el texto a la derecha y se aplica negrita al texto con un tamaño de fuente de 100px en la fuente "Arial". El fondo se establece en blanco. La sección tiene un margen superior, izquierdo y inferior de 250px, lo que separa la descripción de la imagen y la barra lateral.
+
+### Estilos de la Sección de Imagen de Fondo
+
+- `.imagen_fondo`: Establece estilos para la sección de imagen de fondo. Utiliza flexbox para centrar tanto horizontal como verticalmente la imagen. Se posiciona absolutamente en la parte superior de la página y ocupa un área de 250x250px. Además, aplica un fondo degradado utilizando `linear-gradient` con colores "#ffa751" (naranja) y "#ffe259" (amarillo claro) para dar un aspecto llamativo.
+
+### Estilos de la Barra Lateral
+
+- `.barra_izq`: Define los estilos para la barra lateral. La barra se posiciona absolutamente en la parte superior de la página y tiene un ancho de 250px y un alto de 748px. Se establece un fondo de color "#fef9e7" (amarillo claro) y se centra el texto. Además, se aplica un borde de 1px en color "#FFE176" (amarillo más oscuro) para resaltar la barra.
+
+### Estilos de la Imagen
+
+- `img`: Establece un alto y un ancho de 150px para la imagen. Esto ajusta el tamaño de la imagen para que tenga una apariencia más adecuada en la página.
+
+
+
+ 
+ 
+
+ 
 
 
 
