@@ -737,23 +737,54 @@ Se presentara lo agregado en la aplicacion App.js
 
 ![image](https://github.com/Reivaq/Practicas/assets/140466947/769ca9c1-c73b-4265-bc93-b3134000761c)
 
-Se muestra una imagen con la etiqueta '<img>'. Se le ha asignado la clase 'arrob' utilizando className, lo cual  se usará para aplicar estilos CSS específicos a esta imagen. La imagen se cargará desde el archivo 'arroba.jpeg'.
-Luego, hay un párrafo (<p>) con la clase 'correo'. El contenido de este párrafo es una dirección de correo electrónico: gowafaf473@naymedia.com
+## Clase .barra_izq
 
-Despues encontramos un contenedor '<div>' con la clase 'lista'.Este div se utilizará para aplicar estilos a una lista de aptitudes.
-Dentro del div, hay un encabezado de nivel 3 "'(h3)'" con la clase 'aptitud', que muestra el título "Aptitudes".
-Después del encabezado, hay una lista desordenada '(<ul>)' que contiene varios elementos de lista '(<li>)' que enumeran las aptitudes del individuo. Cada aptitud se muestra como un ítem de la lista.
-    
-Se muestra otro encabezado de nivel 3 (h3) que indica la sección "Idiomas".
-Luego, hay otro contenedor div con la clase 'lunguages', utilizado para aplicar estilos específicos a esta sección.
-Dentro del div, encontramos otra lista desordenada (ul) que muestra dos elementos de lista (li). Cada elemento de lista enumera un idioma y su nivel de dominio.
-    
-Encontramos un artículo (article) con la clase 'centro'. Este artículo  contiene varias secciones que muestran detalles personales, académicos y de experiencia laboral.
-Dentro del artículo, hay dos contenedores div con las clases 'Mi_persona' y 'academia'. Cada div se utiliza para agrupar información relacionada.
-Dentro del primer div ('Mi_persona'), hay un encabezado de nivel 3 (h3) que indica la sección "Descripción de mi persona" y un párrafo (p) donde se invluye el texto de la descripción personal.
-Dentro del segundo div ('academia'), hay un encabezado de nivel 3 (h3) que indica la sección "Formación académica" y una lista desordenada (ul) donde se espera que se incluyan detalles sobre la formación académica.
-Luego, hay otro encabezado de nivel 3 (h3) que indica la sección "Experiencia laboral" y una lista desordenada (ul) con la clase 'silla_cama'. Se espera que aquí se incluyan detalles sobre la experiencia.
-    
+- `.barra_izq`: Es una clase que representa un artículo con una barra lateral izquierda.
+- `<h3> Contacto </h3>`: Es un encabezado de nivel 3 que indica el título "Contacto".
+- `<div> <img className='dos' src='telef.jpeg'/> </div>`: Es un contenedor div que contiene una etiqueta de imagen (`<img>`) con la clase `.dos` y la imagen "telef.jpeg".
+- `<p> 9563215874</p>`: Es un párrafo que muestra el número de teléfono "9563215874".
+- `<img className='arrob' src='arroba.jpeg'/>`: Es una etiqueta de imagen (`<img>`) con la clase `.arrob` y la imagen "arroba.jpeg".
+- `<p className='correo'> gowafaf473@naymedia.com </p>`: Es un párrafo con la clase `.correo` que muestra una dirección de correo electrónico "gowafaf473@naymedia.com".
+- `<div className='lista'>`: Es un contenedor div con la clase `.lista`.
+- `<h3 className='aptitud'> Aptitudes </h3>`: Es un encabezado de nivel 3 con la clase `.aptitud` que indica el título "Aptitudes".
+- `<u1>`: Es una lista desordenada (`<ul>`) que contiene varias habilidades en forma de elementos de lista (`<li>`).
+- ` <li> ... </li>`: Cada elemento `<li>` dentro de `<u1>` representa una habilidad específica, como diseño y modelado en CAD, programación en diferentes lenguajes y más.
+
+## Bloque de idiomas
+
+- `<h3> Idiomas </h3>`: Es un encabezado de nivel 3 que indica el título "Idiomas".
+- `<div className='lunguages'>`: Es un contenedor div con la clase `.lunguages`.
+- `<u1>`: Es una lista desordenada (`<ul>`) que contiene información sobre los idiomas.
+- `<li> ... </li>`: Cada elemento `<li>` dentro de `<u1>` representa un idioma, como Español e Inglés con su nivel correspondiente.
+
+## Clase .centro
+
+- `.centro`: Es una clase que representa un artículo centrado en la página con información personal y académica.
+- `<h3> Descripcion de mi persona </h3>`: Es un encabezado de nivel 3 que indica el título "Descripcion de mi persona".
+- `<p> ... </p>`: Es un párrafo que describe la personalidad y experiencia del autor en la carrera de Ingeniería en Mecatrónica.
+- `<div className='academia'>`: Es un contenedor div con la clase `.academia` que contiene información sobre la formación académica y experiencia laboral.
+- `<h3> Formacion academica </h3>`: Es un encabezado de nivel 3 que indica el título "Formacion academica".
+- `<u1>`: Es una lista desordenada (`<ul>`) que contiene información sobre las etapas educativas y cursos realizados.
+- `<li> ... </li>`: Cada elemento `<li>` dentro de `<u1>` representa una etapa educativa o curso específico.
+
+## Experiencia laboral
+
+- `<h3> Experiencia laboral </h3>`: Es un encabezado de nivel 3 que indica el título "Experiencia laboral".
+- `<u1 className='silla_cama'>`: Es una lista desordenada (`<ul>`) con la clase `.silla_cama`, que agrupa información sobre una experiencia laboral específica en el diseño de una silla de ruedas cama para personas con problemas de movilidad.
+- `<h4> ... </h4>`: Es un encabezado de nivel 4 que indica el título del puesto de trabajo.
+- `<p> ... </p>`: Es un párrafo que contiene detalles sobre el lugar y el período de la experiencia laboral.
+- `<li> ... </li>`: Cada elemento `<li>` dentro de `<u1>` representa una tarea o logro específico relacionado con el puesto de trabajo.
+
+## Estancias profesionales en Empresa de Desarrollo de Software
+
+- `<h3> Estancias profesionales en Empresa de Desarrollo de Software </h3>`: Es un encabezado de nivel 3 que indica el título de la experiencia de estancias profesionales en una empresa de desarrollo de software.
+- `<u1>`: Es una lista desordenada (`<ul>`) que contiene información sobre las habilidades adquiridas durante las estancias.
+- `<li> ... </li>`: Cada elemento `<li>` dentro de `<u1>` representa una habilidad o conocimiento específico relacionado con el desarrollo y diseño de páginas web utilizando lenguajes de programación como JavaScript, HTML y CSS.
+
+## Resulto Final 
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/8eee7d6b-20cf-45ca-9ab0-0edff85919cc)
+
  
 
 
