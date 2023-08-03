@@ -656,6 +656,113 @@ Este código CSS proporciona estilos y diseño para la aplicación personal de A
 - `img`: Establece un alto y un ancho de 150px para la imagen. Esto ajusta el tamaño de la imagen para que tenga una apariencia más adecuada en la página.
 
 
+# Dia 8
+
+Este dia se continuo trabajando con la pagina de cv donde se lograron avanzes significativos agregado la mayor parte de los componetes.
+
+Seprecenta lo agregado a App.css
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/8b786326-81ec-4624-b050-ced32e8681ca)
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/c9b1a749-a3d6-4431-8d4f-036c90a415a1)
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/2079d4c1-416b-44ca-863b-c5fbb2c8e0e8)
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/9e174cdf-6b4d-453d-9b90-eead75f34cc0)
+
+    ## Clase .barra_izq
+
+- `padding: 0;` y `padding-left: 0px;`: Se establece el relleno (padding) a cero y se anula el relleno izquierdo.
+- `position: absolute;`: Posiciona el elemento de forma absoluta en la página.
+- `top: 0;` y `margin-top: 250px;`: Establece el desplazamiento desde la parte superior de la página a 250px.
+- `background-color: #73C6B6;`: Define el color de fondo como "#73C6B6".
+- `text-align: center;`: Centra el texto horizontalmente en el contenedor.
+- `font: bold 100px Arial;`: Establece la fuente en negrita de tamaño 100px y utiliza la familia de fuentes Arial.
+- `border: 1px solid #FFE176;`: Agrega un borde de 1px sólido con color "#FFE176".
+- `width: 250px;`: Define el ancho del elemento a 250px.
+- `height: 748px;`: Define la altura del elemento a 748px.
+
+## Clase .contac
+
+- `position: absolute;`: Posiciona el elemento de forma absoluta en la página.
+- `top: 500px;`: Establece el desplazamiento desde la parte superior de la página a 500px.
+
+## Etiqueta img
+
+- `height: 150px;` y `width: 150px;`: Limita el tamaño de todas las imágenes a 150x150 píxeles.
+
+## Clase .dos y .arrob
+
+- `.dos`: Establece una altura de 20px y un ancho de 20px. Se posiciona desde la izquierda (`position: left;`) y a 30px desde la parte superior (`top: 30px;`).
+- `.arrob`: Establece una altura de 30px y un ancho de 30px.
+
+## Selector header nav img div article
+
+- Se define que todos los elementos `<header>`, `<nav>`, `<img>`, `<div>`, y `<article>` deben mostrarse como bloques (`display: block;`).
+
+## Clase .lista y .lunguages
+
+- `.lista`: Establece el texto alineado a la izquierda (`text-align: left;`) y un relleno izquierdo de 20px (`padding-left: 20px;`).
+- `.lunguages`: Al igual que `.lista`, también establece el texto alineado a la izquierda y un relleno izquierdo de 20px.
+
+## Clase .aptitud
+
+- `text-align: center;`: Centra el texto horizontalmente en el contenedor.
+
+## Clase .centro
+
+- `padding: 0;`, `padding-right: 15px;`, `padding-left: 270px;`, `padding-top: 10px;`, `padding-bottom: 30px;`: Define diferentes valores de relleno en todas las direcciones.
+- `background: ...`: Establece un fondo con un degradado utilizando colores degradados desde `#a8e063` hasta `#56ab2f`.
+
+## Clase .Mi_persona
+
+- `text-align: justify;`: Justifica el texto dentro del contenedor.
+
+## Selectores h1 h2 h3 h4 h5 h6
+
+- Se establece la familia de fuentes `'Times New Roman', Times, serif` y se pone el texto en negrita (`font-weight: bold;`) para los encabezados de todos los niveles.
+
+## Etiqueta p
+
+- `font-family: sans-serif;`: Define la familia de fuentes como sans-serif para todos los párrafos (`<p>`) en la página.
+
+
+
+Se presentara lo agregado en la aplicacion App.js
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/b9d80f1f-a217-4026-8b7f-c6a9ec1ca2ba)
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/b671b5b7-cfc7-45e0-a177-1e47867a99c6)
+
+
+![image](https://github.com/Reivaq/Practicas/assets/140466947/769ca9c1-c73b-4265-bc93-b3134000761c)
+
+Se muestra una imagen con la etiqueta '<img>'. Se le ha asignado la clase 'arrob' utilizando className, lo cual  se usará para aplicar estilos CSS específicos a esta imagen. La imagen se cargará desde el archivo 'arroba.jpeg'.
+Luego, hay un párrafo (<p>) con la clase 'correo'. El contenido de este párrafo es una dirección de correo electrónico: gowafaf473@naymedia.com
+
+Despues encontramos un contenedor '<div>' con la clase 'lista'.Este div se utilizará para aplicar estilos a una lista de aptitudes.
+Dentro del div, hay un encabezado de nivel 3 "'(h3)'" con la clase 'aptitud', que muestra el título "Aptitudes".
+Después del encabezado, hay una lista desordenada '(<ul>)' que contiene varios elementos de lista '(<li>)' que enumeran las aptitudes del individuo. Cada aptitud se muestra como un ítem de la lista.
+    
+Se muestra otro encabezado de nivel 3 (h3) que indica la sección "Idiomas".
+Luego, hay otro contenedor div con la clase 'lunguages', utilizado para aplicar estilos específicos a esta sección.
+Dentro del div, encontramos otra lista desordenada (ul) que muestra dos elementos de lista (li). Cada elemento de lista enumera un idioma y su nivel de dominio.
+    
+Encontramos un artículo (article) con la clase 'centro'. Este artículo  contiene varias secciones que muestran detalles personales, académicos y de experiencia laboral.
+Dentro del artículo, hay dos contenedores div con las clases 'Mi_persona' y 'academia'. Cada div se utiliza para agrupar información relacionada.
+Dentro del primer div ('Mi_persona'), hay un encabezado de nivel 3 (h3) que indica la sección "Descripción de mi persona" y un párrafo (p) donde se invluye el texto de la descripción personal.
+Dentro del segundo div ('academia'), hay un encabezado de nivel 3 (h3) que indica la sección "Formación académica" y una lista desordenada (ul) donde se espera que se incluyan detalles sobre la formación académica.
+Luego, hay otro encabezado de nivel 3 (h3) que indica la sección "Experiencia laboral" y una lista desordenada (ul) con la clase 'silla_cama'. Se espera que aquí se incluyan detalles sobre la experiencia.
+    
+ 
+
+
+ 
+ 
+
+ 
+
+
 
  
  
