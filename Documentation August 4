@@ -1,0 +1,60 @@
+# Dia 10
+
+# Fundamentos del Desarrollo de Aplicaciones Web
+
+## Introducción
+Se conmenzo con el curso de Bootcam FullStack, en el primer video, se abordan los conceptos fundamentales del desarrollo de aplicaciones web. Las aplicaciones web son programas o software que se ejecutan en un navegador web y permiten a los usuarios interactuar con ellos a través de internet. Comprender los principios básicos es crucial para construir aplicaciones web efectivas y robustas.
+
+## Las Herramientas de Desarrollo
+El proceso de desarrollo web puede ser simplificado mediante el uso de herramientas adecuadas. Algunas de las herramientas clave incluyen:
+
+- **IDEs (Entornos de Desarrollo Integrados):** Proporcionan un entorno completo para escribir, depurar y ejecutar código. Ejemplos populares incluyen Visual Studio Code, Atom y Sublime Text.
+
+- **Editores de Código:** Son herramientas más livianas que ofrecen funcionalidades esenciales para escribir código. Entre ellos, se destacan Notepad++, Vim y Emacs.
+
+- **Navegadores Web con Herramientas de Desarrollo:** Los navegadores modernos incluyen consolas de desarrollo y herramientas de inspección que permiten a los desarrolladores examinar y depurar el código de una página web, en este vieo nos enfocamos en la consola y el NetWork.
+
+## Leyendo el Document Object Model (DOM)
+El Document Object Model (DOM) es una representación estructurada del contenido de una página web. Permite a los desarrolladores acceder y manipular los elementos HTML y CSS mediante JavaScript. Algunos puntos importantes sobre el DOM son:
+
+- **Árbol de Elementos:** El DOM organiza los elementos de la página en un árbol jerárquico, lo que facilita la navegación y modificación del contenido.
+
+- **Manipulación del DOM:** Mediante JavaScript, es posible seleccionar elementos, modificar sus atributos y contenido, agregar nuevos elementos y eliminar los existentes.
+
+## Peticiones a un Servidor
+Las aplicaciones web suelen interactuar con un servidor para obtener o enviar datos. Las peticiones a un servidor se realizan a través del protocolo HTTP, utilizando los métodos más comunes:
+
+- **GET:** Se utiliza para solicitar datos del servidor. Por ejemplo, obtener información de una base de datos o una API.
+
+- **POST:** Se emplea para enviar datos al servidor. Por ejemplo, enviar información de un formulario para su procesamiento.
+
+- **PUT y DELETE:** Son utilizados para actualizar y eliminar datos, respectivamente, aunque no son tan comunes como GET y POST.
+
+## AJAX
+AJAX (Asynchronous JavaScript and XML) es una técnica que permite actualizar partes específicas de una página web sin tener que recargarla por completo. Algunos puntos a considerar sobre AJAX son:
+
+- **Comunicación Asíncrona:** Permite enviar y recibir datos del servidor en segundo plano, lo que mejora la experiencia del usuario al no interrumpir su interacción con la página.
+
+- **Actualización Dinámica:** Al recibir los datos del servidor, AJAX puede actualizar solo las secciones relevantes de la página, evitando la carga completa y mejorando la velocidad y eficiencia del sitio.
+
+## Aplicaciones de una Sola Página (SPA)
+Las SPA (Single Page Applications) son aplicaciones web que cargan una sola página y actualizan el contenido dinámicamente a medida que los usuarios interactúan con ella. Algunas características de las SPA son:
+
+- **Interactividad Avanzada:** Las SPA proporcionan una experiencia fluida y rápida, ya que solo se carga el contenido necesario para las interacciones, evitando el tiempo de carga de páginas adicionales.
+
+- **Enrutamiento en el Cliente:** Las SPA gestionan el enrutamiento internamente mediante JavaScript, lo que evita solicitar nuevas páginas al servidor para cada sección de la aplicación.
+
+## Librerías en JavaScript
+JavaScript es un lenguaje poderoso, y las librerías facilitan el desarrollo de aplicaciones web al proporcionar funcionalidades predefinidas y abstraer la complejidad. Algunas librerías populares incluyen:
+
+- **jQuery:** Facilita la manipulación del DOM, el manejo de eventos y las solicitudes AJAX, entre otras funcionalidades.
+
+- **React:** Es una librería de interfaz de usuario (UI) desarrollada por Facebook que permite crear interfaces interactivas y reactivas.
+
+- **Angular y Vue.js:** Son frameworks de desarrollo web que ofrecen una estructura más completa para construir aplicaciones web complejas.
+
+## Desarrollo Full Stack
+El desarrollo Full Stack se refiere a la capacidad de un desarrollador para trabajar tanto en el front-end (cliente) como en el back-end (servidor) de una aplicación web. Los desarrolladores Full Stack tienen un conocimiento versátil y pueden asumir múltiples roles en el desarrollo de un proyecto. Esto les permite entender todo el flujo de trabajo de una aplicación web y hacer contribuciones en diferentes etapas del desarrollo.
+
+
+
