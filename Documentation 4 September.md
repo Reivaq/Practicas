@@ -1,4 +1,4 @@
-# Documentacion 5 Septiembre 
+# Documentacion 4 Septiembre 
 Este día se continuó con el curso de fullstack, en el cual se siguió trabajando con nuestro programa de notas al cual le hemos realizado ciertas modificaciones. En esta clase abordamos el tema de usuarios y contraseñas, de modo que cada usuario con un nombre y contraseña específicos pueda acceder a nuestra página y modificar las notas.
 
 Para esto, primeramente se crearon dos archivos, uno dentro de la carpeta 'models' llamado 'Users.js' y otro dentro de la carpeta 'controllers' llamado 'users.js'. Estos archivos son esenciales para el funcionamiento de nuestro programa. Para que esto funcionara correctamente, también se realizaron cambios en nuestro índice principal. A continuación, se explicarán los códigos.
